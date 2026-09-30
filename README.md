@@ -24,15 +24,9 @@
 - 💼 Looking for **Software Engineering / Data** opportunities
 - 🧠 Certified in **Python, AI, ML & Data Analytics** (Pantech Solutions)
 
-```java
-public class Sahil {
-    String role = "Software Engineer";
-    String location = "Pune, India";
-    String[] stack = {"Java", "Spring Boot", "Python"};
-    String[] tools = {"Flask", "PostgreSQL", "Docker"};
-    String[] exploring = {"ML", "Data Analytics", "CI/CD"};
-}
-```
+<p align="center">
+  <img src="assets/about.svg" width="80%" alt="About Sahil" />
+</p>
 
 ## 🚀 Featured Projects
 
