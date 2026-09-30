@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sahil%20Shivgan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI/ML&descAlignY=58&descSize=18" width="100%" alt="Header" />
+  <img src="assets/header.svg" width="100%" alt="Header" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahil-shivgan-engineer25/"><img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" /></a>
-  <a href="mailto:sahilshivgan25@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sahilshivgan25@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" /></a>
   <a href="https://github.com/Sahilshivgan?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Repos" /></a>
   <img src="https://komarev.com/ghpvc/?username=Sahilshivgan&label=Profile%20Views&color=dc2626&style=for-the-badge" alt="Views" />
 </p>
@@ -79,16 +79,10 @@ public class Sahil {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilshivgan&theme=dark&hide_border=true&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" alt="Streak" />
 </p>
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahilshivgan&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
-</p>
-
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahilshivgan&bg_color=0d1117&color=ef4444&line=ef4444&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/ef4444/Sahilshivgan" width="100%" alt="Contribution Chart" />
 </p>
 
 ## 🐍 Contribution Snake
@@ -101,10 +95,10 @@ public class Sahil {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahil-shivgan-engineer25/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" /></a>&nbsp;&nbsp;
-  <a href="mailto:sahilshivgan25@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sahilshivgan25@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>&nbsp;&nbsp;
   <a href="https://github.com/Sahilshivgan"><img src="https://skillicons.dev/icons?i=github" height="48" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="assets/footer.svg" width="100%" alt="Footer" />
 </p>
