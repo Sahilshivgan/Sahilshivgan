@@ -15,7 +15,8 @@
   <img src="https://komarev.com/ghpvc/?username=Sahilshivgan&label=Profile%20Views&color=dc2626&style=for-the-badge" alt="Views" />
 </p>
 
----
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## 👨‍💻 About Me
 
@@ -27,6 +28,8 @@
 <p align="center">
   <img src="assets/about.svg" width="80%" alt="About Sahil" />
 </p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## 🚀 Featured Projects
 
@@ -50,6 +53,8 @@
   </tr>
 </table>
 
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -63,6 +68,8 @@
   <img src="https://img.shields.io/badge/Data_Analytics-0a0a0a?style=for-the-badge&logoColor=EF4444" />
 </p>
 
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -74,11 +81,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilshivgan&theme=dark&hide_border=true&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" alt="Streak" />
 </p>
 
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sahilshivgan/Sahilshivgan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake" />
 </p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## 📬 Let's Connect
 
