@@ -26,10 +26,11 @@
 
 ```java
 public class Sahil {
-    String role      = "Software Engineer";
-    String location  = "Pune, India";
-    String[] stack   = {"Java", "Spring Boot", "Python", "Flask", "PostgreSQL", "Docker"};
-    String[] exploring = {"Machine Learning", "Data Analytics", "CI/CD"};
+    String role = "Software Engineer";
+    String location = "Pune, India";
+    String[] stack = {"Java", "Spring Boot", "Python"};
+    String[] tools = {"Flask", "PostgreSQL", "Docker"};
+    String[] exploring = {"ML", "Data Analytics", "CI/CD"};
 }
 ```
 
@@ -77,12 +78,6 @@ public class Sahil {
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilshivgan&theme=dark&hide_border=true&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" alt="Streak" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/ef4444/Sahilshivgan" width="100%" alt="Contribution Chart" />
 </p>
 
 ## 🐍 Contribution Snake
